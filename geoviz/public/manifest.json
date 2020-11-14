@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "CanAirIO GeoViz",
+  "name": "CanAirIO GeoViz",
   "icons": [
     {
       "src": "assets/icon/favicon.png",

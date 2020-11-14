@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "geoviz",
+  "appId": "canairio.geoviz",
+  "appName": "CanAirIO GeoViz",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
